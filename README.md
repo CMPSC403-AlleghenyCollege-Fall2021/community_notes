@@ -1,13 +1,13 @@
-# Community Notes
+### Community Notes
 
 As a class community, we will use this space to record any notes on class topics that are of importance.
 
-## Content
+### Content
 
 * [Linux Fundamentals](#linux-fundamentals)
 
 
-## Linux Fundamentals
+### Linux Fundamentals
 
 # Three linux commands that I knew were:
 
