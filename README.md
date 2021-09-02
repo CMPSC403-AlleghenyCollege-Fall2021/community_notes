@@ -13,3 +13,9 @@ As a class community, we will use this space to record any notes on class topics
 * `cat` -> allows a user to look at the contents of the file in the terminal
 
 * `crontab` -> one of the processes that is started during boot and is responsible for facilitating cron jobs
+
+man- shows a manual for each specific command
+
+touch- creates a new file
+
+su- switches user
