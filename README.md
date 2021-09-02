@@ -19,3 +19,5 @@ man- shows a manual for each specific command
 touch- creates a new file
 
 su- switches user
+
+cat - concatenate/read file, file - tells the type of file, and find - finds the file
