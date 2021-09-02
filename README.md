@@ -17,6 +17,10 @@ As a class community, we will use this space to record any notes on class topics
 
 **grep** - search contents of the file  
 
+**cp** - copies a file or folder
+
+**nano** - creates or edits a file
+
 **whoami** - get the username
 
 **cat** - shows the content of the file
