@@ -14,3 +14,4 @@ man- shows a manual for each specific command
 touch- creates a new file
 
 su- switches user
+
