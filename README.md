@@ -8,3 +8,14 @@ As a class community, we will use this space to record any notes on class topics
 
 
 ## Linux Fundamentals
+
+### Kill process commands:
+
+`kill [process id]`: basic kill process command
+
+`SIGTERM`: kill with cleaning
+
+`SIGKILL`: kill without cleaning
+
+`SIGSTOP`: stop process
+
