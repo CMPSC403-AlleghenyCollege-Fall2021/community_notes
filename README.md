@@ -9,30 +9,26 @@ As a class community, we will use this space to record any notes on class topics
 
 ## Linux Fundamentals
 
-**Three linux commands that I knew were:**
+**vim** - a terminal textual editor that allows you to create, edit and save files.
 
-```
-$ ls
-$ pwd
-$ cd
-```
+**scp** - Secure copy is a means of securely copying files and allows you to transfer files between two computers using the SSH protocol to provide both authentication and encryption.
 
-These commands allow the user to:
+**ps** - provide a list of the running processes as our user's session and some additional information.
 
-1. list the files in a computer's operating system
-2. print the full pathname of the working directory
-3. to change into and out of directories.
+**grep** - search contents of the file  
 
-**Three linux commands that I did not know before were:**
+**whoami** - get the username
 
-```
-$ echo
-$ whoami
-$ grep
-```
+**cat** - shows the content of the file
 
-These commands allow the user to:
+**man** - shows a manual for each specific command
 
-1. outputs any text that the user provides
-2. find out what user the computer is logged in as
-3. search the contents of files for specific values that we are looking for
+**touch** - creates a new file
+
+**su**- switches user
+
+**cat** - concatenate/read file, file - tells the type of file, and find - finds the file
+
+**file** - lists file type
+
+**echo** - outputs any text that the user provides
