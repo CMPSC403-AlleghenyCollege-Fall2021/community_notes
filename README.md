@@ -8,3 +8,5 @@ As a class community, we will use this space to record any notes on class topics
 
 
 ## Linux Fundamentals
+
+**wget**: Retrieve online resources via HTTP
