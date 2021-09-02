@@ -8,3 +8,9 @@ As a class community, we will use this space to record any notes on class topics
 
 
 ## Linux Fundamentals
+
+grep: search contents of the file  
+
+whoami : get the username
+
+cat: shows the content of the file
