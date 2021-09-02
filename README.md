@@ -17,3 +17,10 @@ these were three basic commands that are used to show us what is in the director
 Touch - creates a file
 cp - copy a file 
 su - this command switches users within the terminal interface
+
+man- shows a manual for each specific command
+
+touch- creates a new file
+
+su- switches user
+
