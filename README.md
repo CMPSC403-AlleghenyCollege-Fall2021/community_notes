@@ -8,3 +8,4 @@ As a class community, we will use this space to record any notes on class topics
 
 
 ## Linux Fundamentals
+cat - concatenate/read file, file - tells the type of file, and find - finds the file
