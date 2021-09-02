@@ -9,11 +9,18 @@ As a class community, we will use this space to record any notes on class topics
 
 ## Linux Fundamentals
 
+vim - a terminal textual editor that allows you to create, edit and save files.
+
+SCP - Secure copy is a means of securely copying files and allows you to transfer files between two computers using the SSH protocol to provide both authentication and encryption.
+
+ps - provide a list of the running processes as our user's session and some additional information.
+
 grep: search contents of the file  
 
 whoami : get the username
 
 cat: shows the content of the file
+
 man- shows a manual for each specific command
 
 touch- creates a new file
