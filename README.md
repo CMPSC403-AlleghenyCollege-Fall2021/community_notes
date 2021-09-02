@@ -30,3 +30,5 @@ As a class community, we will use this space to record any notes on class topics
 **cat** - concatenate/read file, file - tells the type of file, and find - finds the file
 
 **file** - lists file type
+
+**echo** - outputs any text that the user provides
