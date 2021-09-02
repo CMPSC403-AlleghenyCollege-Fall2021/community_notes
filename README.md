@@ -16,3 +16,5 @@ touch- creates a new file
 su- switches user
 
 cat - concatenate/read file, file - tells the type of file, and find - finds the file
+
+file - lists file type
