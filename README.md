@@ -23,5 +23,4 @@ cp - copies a file or folder
 
 nano - creates or edits a file
 
-file - determines the type of a file
-
+file - lists file type
