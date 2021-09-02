@@ -9,6 +9,6 @@ As a class community, we will use this space to record any notes on class topics
 
 ## Linux Fundamentals
 
-nano is a terminal text editor
-cron is a process that you can automate certain tasks in a given time
+nano is a terminal text editor.
+cron is a process that you can automate certain tasks in a given time.
 ps shows the processes that are running on your computer and shows how much cpu it uses.
