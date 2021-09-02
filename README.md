@@ -19,4 +19,6 @@ cat - print the contents of the file
 
 echo - print the given string
 
-su - change the user operating in the terminal
+su - change the user operating in the terminal 
+
+cat - concatenate/read file, file - tells the type of file, and find - finds the file
