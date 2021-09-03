@@ -9,18 +9,21 @@ As a class community, we will use this space to record any notes on class topics
 
 ## Linux Fundamentals
 
-cd - jump from folder to folder within a directory
-ls - list the contents of a folder or directory
-newfile - creates a new file
-these were three basic commands that are used to show us what is in the directory, to maneuver the directory and create new files
-
-Touch - creates a file
-cp - copy a file 
-su - this command switches users within the terminal interface
-
-man- shows a manual for each specific command
-
-touch- creates a new file
-
-su- switches user
-
+|Command |Description|
+|--------|-----------|
+|**cat** | can create file(s), show the content of the file, concatenate files, redirect output in terminal or files.|
+|**crontab** | allows user to mangage the cron processes that are started during boot.|
+|**cp**  | copies a file or folder.       |
+|**echo**| outputs any text that the user provides
+|**grep**|  search contents of the file.  |
+|**file**| lists file type. |
+|**find** | finds the file. |
+|**man** | shows a manual for each specific command. |
+|**nano**| creates or edits a file. |
+|**ps**  | provide a list of the running processes as our user's session and some additional information. |
+|**scp** | Secure copy is a means of securely copying files and allows you to transfer files between two computers using the SSH protocol to provide both authentication and encryption. |
+|**su**  | switches user. |
+|**touch** | creates a new file. |
+|**vim** | a terminal textual editor that allows you to create, edit and save files. |
+|**whoami**| get the username. |
+|**wget** | downloads a file using the computer's IP Address and the name of the file.|
