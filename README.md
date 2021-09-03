@@ -6,6 +6,7 @@ As a class community, we will use this space to record any notes on class topics
 
 * [Linux Fundamentals](#linux-fundamentals)
 
+
 ## Linux Fundamentals
 
 |Command |Description|
