@@ -6,17 +6,30 @@ As a class community, we will use this space to record any notes on class topics
 
 * [Linux Fundamentals](#linux-fundamentals)
 
-
 ## Linux Fundamentals
 
-### In Fundamental Linux walkthroughs, name three linux commands you already knew and have regularly used before starting the walkthrough. *
+|Command |Description|
+|--------|-----------|
+|**cat** | can create file(s), show the content of the file, concatenate files, redirect output in terminal or files.|
+|**crontab** | allows user to mangage the cron processes that are started during boot / a way to automate certain processes at regular intervals.|
+|**cp**  | copies a file or folder.       |
+|**echo**| outputs any text that the user provides. |
+|**grep**|  search contents of the file.  |
+|**file**| lists file type. |
+|**find** | finds the file. |
+|**kill [process id]**| basic kill process command. |
+|**man** | shows a manual for each specific command. |
+|**nano**| creates or edits a file. |
+|**ps**  | provide a list of the running processes as our user's session and some additional information. |
+|**scp** | Secure copy is a means of securely copying files and allows you to transfer files between two computers using the SSH protocol to provide both authentication and encryption. |
+|**SIGTERM** | kill with cleaning |
+|**SIGKILL** | kill without cleaning |
+|**SIGSTOP** | stop process |
+|**ssh** | securely connects to another computer |
+|**su**  | switches user. |
+|**touch** | creates a new file. |
+|**vim** | a terminal textual editor that allows you to create, edit and save files. |
+|**whoami**| get the username. |
+|**wget** | downloads a file using the computer's IP Address and the name of the file / Retrieve online resources via HTTP.|
+|**pipe operators (> and >>)** | used for piping output to another command. |
 
-cd, ls, touch
-
-### In Fundamental Linux walkthroughs, describe three linux commands you have not previously used before starting the walkthroughs. Provide the command and give a short description of its purpose (what does it do).
-
-nano (a terminal based text editor), wget (gets a file over the web (I think it's http?)), ssh (While I have used this before, I have never used it through the terminal exclusively. Securely connects to another computer). Also I have never used pipe operators, or at least not knowingly (> and >> which are for piping output to another command).
-
-### What are the challenges you have experienced during the Linux Fundamentals walkthroughs?
-
-Issues with the virtual machines not starting, permission errors, and lack of proper explanations/clear questions for some of the sections.
