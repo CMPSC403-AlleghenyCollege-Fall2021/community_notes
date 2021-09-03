@@ -6,13 +6,24 @@ As a class community, we will use this space to record any notes on class topics
 
 * [Linux Fundamentals](#linux-fundamentals)
 
-
 ## Linux Fundamentals
-- stephensonc: I had not used the crontab command/utility, and it is effectively a way to automate certain processes at regular intervals. I had used wget, but not very much, and so I learned how to use wget more specifically to download files from a web url. I also had not used the su command before, and it allows a user to change who they are logged in as provided they have the right permissions/credentials.
 
-man- shows a manual for each specific command
-
-touch- creates a new file
-
-su- switches user
-
+|Command |Description|
+|--------|-----------|
+|**cat** | can create file(s), show the content of the file, concatenate files, redirect output in terminal or files.|
+|**crontab** | allows user to mangage the cron processes that are started during boot / a way to automate certain processes at regular intervals.|
+|**cp**  | copies a file or folder.       |
+|**echo**| outputs any text that the user provides
+|**grep**|  search contents of the file.  |
+|**file**| lists file type. |
+|**find** | finds the file. |
+|**kill**| 
+|**man** | shows a manual for each specific command. |
+|**nano**| creates or edits a file. |
+|**ps**  | provide a list of the running processes as our user's session and some additional information. |
+|**scp** | Secure copy is a means of securely copying files and allows you to transfer files between two computers using the SSH protocol to provide both authentication and encryption. |
+|**su**  | switches user. |
+|**touch** | creates a new file. |
+|**vim** | a terminal textual editor that allows you to create, edit and save files. |
+|**whoami**| get the username. |
+|**wget** | downloads a file using the computer's IP Address and the name of the file.|
