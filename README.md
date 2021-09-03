@@ -8,16 +8,10 @@ As a class community, we will use this space to record any notes on class topics
 
 ## Linux Fundamentals
 
-man- shows a manual for each specific command
-
-touch- creates a new file
-
-su- switches user
-
-cat - concatenate/read file, file - tells the type of file, and find - finds the file
 |Command |Description|
 |--------|-----------|
 |**cat** | can create file(s), show the content of the file, concatenate files, redirect output in terminal or files.|
+|**crontab** | allows user to mangage the cron processes that are started during boot.|
 |**cp**  | copies a file or folder.       |
 |**echo**| outputs any text that the user provides
 |**grep**|  search contents of the file.  |
@@ -32,4 +26,3 @@ cat - concatenate/read file, file - tells the type of file, and find - finds the
 |**vim** | a terminal textual editor that allows you to create, edit and save files. |
 |**whoami**| get the username. |
 |**wget** | downloads a file using the computer's IP Address and the name of the file.|
-|**crontab** | allows user to mangage the cron processes that are started during boot.|
