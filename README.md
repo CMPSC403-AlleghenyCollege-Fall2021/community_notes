@@ -17,11 +17,14 @@ As a class community, we will use this space to record any notes on class topics
 |**grep**|  search contents of the file.  |
 |**file**| lists file type. |
 |**find** | finds the file. |
-|**kill**| 
+|**kill [process id]**| basic kill process command |
 |**man** | shows a manual for each specific command. |
 |**nano**| creates or edits a file. |
 |**ps**  | provide a list of the running processes as our user's session and some additional information. |
 |**scp** | Secure copy is a means of securely copying files and allows you to transfer files between two computers using the SSH protocol to provide both authentication and encryption. |
+|**SIGTERM** | kill with cleaning |
+|**SIGKILL** | kill without cleaning |
+|**SIGSTOP** | stop process |
 |**su**  | switches user. |
 |**touch** | creates a new file. |
 |**vim** | a terminal textual editor that allows you to create, edit and save files. |
