@@ -8,11 +8,10 @@ As a class community, we will use this space to record any notes on class topics
 
 ## Linux Fundamentals
 
-
 |Command |Description|
 |--------|-----------|
 |**cat** | can create file(s), show the content of the file, concatenate files, redirect output in terminal or files.|
-|**crontab** | allows user to mangage the cron processes that are started during boot.|
+|**crontab** | allows user to mangage the cron processes that are started during boot / a way to automate certain processes at regular intervals.|
 |**cp**  | copies a file or folder.       |
 |**echo**| outputs any text that the user provides
 |**grep**|  search contents of the file.  |
