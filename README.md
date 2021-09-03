@@ -26,4 +26,4 @@ As a class community, we will use this space to record any notes on class topics
 |**touch** | creates a new file. |
 |**vim** | a terminal textual editor that allows you to create, edit and save files. |
 |**whoami**| get the username. |
-|**wget** | downloads a file using the computer's IP Address and the name of the file.|
+|**wget** | downloads a file using the computer's IP Address and the name of the file / Retrieve online resources via HTTP.|
