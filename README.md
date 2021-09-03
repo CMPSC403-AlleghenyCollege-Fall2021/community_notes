@@ -27,6 +27,7 @@ As a class community, we will use this space to record any notes on class topics
 |**SIGSTOP** | stop process |
 |**ssh** | securely connects to another computer |
 |**su**  | switche/change user operating in the terminal. |
+|**systemctr** | control the systemd system and service manager. |
 |**touch** | creates a new file. |
 |**vim** | a terminal textual editor that allows you to create, edit and save files. |
 |**whoami**| get the username. |
