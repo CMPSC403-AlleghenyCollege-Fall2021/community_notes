@@ -6,9 +6,15 @@ As a class community, we will use this space to record any notes on class topics
 
 * [Linux Fundamentals](#linux-fundamentals)
 
-
 ## Linux Fundamentals
 
+man- shows a manual for each specific command
+
+touch- creates a new file
+
+su- switches user
+
+cat - concatenate/read file, file - tells the type of file, and find - finds the file
 |Command |Description|
 |--------|-----------|
 |**cat** | can create file(s), show the content of the file, concatenate files, redirect output in terminal or files.|
@@ -25,3 +31,5 @@ As a class community, we will use this space to record any notes on class topics
 |**touch** | creates a new file. |
 |**vim** | a terminal textual editor that allows you to create, edit and save files. |
 |**whoami**| get the username. |
+|**wget** | downloads a file using the computer's IP Address and the name of the file.|
+|**crontab** | allows user to mangage the cron processes that are started during boot.|
