@@ -6,8 +6,8 @@ As a class community, we will use this space to record any notes on class topics
 
 * [Linux Fundamentals](#linux-fundamentals)
 
-
 ## Linux Fundamentals
+
 
 |Command |Description|
 |--------|-----------|
@@ -18,6 +18,7 @@ As a class community, we will use this space to record any notes on class topics
 |**grep**|  search contents of the file.  |
 |**file**| lists file type. |
 |**find** | finds the file. |
+|**kill**| 
 |**man** | shows a manual for each specific command. |
 |**nano**| creates or edits a file. |
 |**ps**  | provide a list of the running processes as our user's session and some additional information. |
