@@ -26,10 +26,9 @@ As a class community, we will use this space to record any notes on class topics
 |**SIGKILL** | kill without cleaning |
 |**SIGSTOP** | stop process |
 |**ssh** | securely connects to another computer |
-|**su**  | switches user. |
+|**su**  | switche/change user operating in the terminal. |
 |**touch** | creates a new file. |
 |**vim** | a terminal textual editor that allows you to create, edit and save files. |
 |**whoami**| get the username. |
 |**wget** | downloads a file using the computer's IP Address and the name of the file / Retrieve online resources via HTTP.|
 |**pipe operators (> and >>)** | used for piping output to another command. |
-
