@@ -34,12 +34,3 @@ As a class community, we will use this space to record any notes on class topics
 |**whoami**| get the username. |
 |**wget** | downloads a file using the computer's IP Address and the name of the file / Retrieve online resources via HTTP.|
 |**pipe operators (> and >>)** | used for piping output to another command. |
-
-## Shells
-
-# What is a shell?
-
-A shell is what we use when interfacing with a Command Line Environment. One can obtain access to a shell from an application running on the server to execute arbitrary code in that application's shell.
-
-Reverse shell: forcing remote server to send us command line access to the server
-Bind shell: opening up a port on the server which we can connect to in order to execute further commands
