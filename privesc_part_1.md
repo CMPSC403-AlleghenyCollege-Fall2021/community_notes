@@ -1,5 +1,8 @@
 ### Names: Claire, Megan, Danny, Kai'lani, Wes, Chris, Caden
 
+#### Notes
+
+Crontabs that run with root privileges can be exploited if the file run in said cron job does not require root to be written to.
 
 #### Definitions
 
