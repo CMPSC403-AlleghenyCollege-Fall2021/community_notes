@@ -20,3 +20,5 @@ Creates an executable SH file.
 
 ```find / -perm -u=s -type f 2>/dev/null```
 Used to search manually for SUID/GUID files on the system. (Similar to LinEnum)
+
+```-perm```  searches for files with specific permissions
