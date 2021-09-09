@@ -19,6 +19,7 @@ Crontabs that run with root privileges can be exploited if the file run in said 
 Creates an executable SH file.
 
 ```find / -perm -u=s -type f 2>/dev/null```
+
 Used to search manually for SUID/GUID files on the system. (Similar to LinEnum)
 
 ```-perm```
