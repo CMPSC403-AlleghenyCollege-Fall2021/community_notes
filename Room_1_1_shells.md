@@ -1,6 +1,17 @@
 # Shells
 
 * [What is a shell?](#What-is-a-shell?)
+* [Shell Computing Tools](#Shell-Computing-Tools)
+* [Types of Shells](#Types-of-Shells)
+* [Running Netcat Shells](#Running-Netcat-Shells)
+* [Netcat Shell Stabilization](#Netcat-Shell-Stabilization)
+* [Running Socat Shells](#Running-Socat-Shells)
+* [Socat Encrypted Shells](#Socat-Encrypted-Shells)
+* [Common Shell Payloads](#Common-Shell-Payloads)
+* [Msfvenom](#Msfvenom)
+* [Metasploit multi/handler](#Metasploit-multi/handler)
+* [Webshells](#Webshells)
+* [Next Steps](#Next-Steps)
 
 
 ## What is a shell?
@@ -56,7 +67,7 @@ On the target, want to get a port and tell it to execute `cmd.exe`: `nc -lvnp <p
 
 On the attacking machine: `nc MACHINE_IP <port>`
 
-# Running Netcat shells
+# Running Netcat Shells
 
 Syntax for starting a netcat listener for a **reverse shell** using Linux: 'nc -lvnp <port-number>'
 
@@ -90,7 +101,7 @@ Netcat shells are very unstable without techniques used to stabilize them.
 1. Open another terminal and run `stty -a` and note the values shown for numbers of rows and columns
 2. Type `stty rows <number>` and `stty cols <number>` in reverse terminal to change width/height of terminal
 
-# Running socat shells
+## Running Socat Shells
 
 Socat is the **connector between two points, which could be either a listening port and the keyboard, the listening port and a file, or two listening ports.**
 
@@ -175,7 +186,7 @@ Staged payload: `shell/reverse_tcp`
 Can use `msfvenom --list payloads` to list all available payloads and then use `grep` to search for a specific set of payloads
 
 
-## Task 10 Metasploit multi/handler
+## Metasploit multi/handler
 
 - Multi/handler
   - Tool for catching reverse shells
