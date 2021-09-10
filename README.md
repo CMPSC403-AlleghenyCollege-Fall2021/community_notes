@@ -5,7 +5,6 @@ As a class community, we will use this space to record any notes on class topics
 ## Content
 
 * [Linux Fundamentals](#linux-fundamentals)
-* [Shells](#shells)
 
 ## Linux Fundamentals
 
