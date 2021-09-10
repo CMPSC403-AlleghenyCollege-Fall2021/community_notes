@@ -1,5 +1,8 @@
 # Shells
 
+* [What is a shell?](#What-is-a-shell?)
+
+
 ## What is a shell?
 
 A shell is what we use when interfacing with a Command Line Environment. One can obtain access to a shell from an application running on the server to execute arbitrary code in that application's shell.
