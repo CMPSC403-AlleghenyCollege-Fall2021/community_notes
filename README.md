@@ -6,8 +6,8 @@ As a class community, we will use this space to record any notes on class topics
 
 * [Linux Fundamentals](#linux-fundamentals)
 * [Shells](Room_1_1_shells.md)
-* [Lab 1 Part 3](part_three.md)
-* [PrivEsc](privesc_part_1.md)
+* [Common Linux PrivEsc](privesc_part_1.md)
+* [Linux PrivEsc Techniques](part_three.md)
 * [Assembly Commands](assembly_language.md)
 
 ## Linux Fundamentals
