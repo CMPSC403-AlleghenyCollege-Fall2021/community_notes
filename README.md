@@ -9,6 +9,7 @@ As a class community, we will use this space to record any notes on class topics
 * [Common Linux PrivEsc](privesc_part_1.md)
 * [Linux PrivEsc Techniques](part_three.md)
 * [Assembly Commands](assembly_language.md)
+* [Hash Cracking](hash_cracking.md)
 
 ## Linux Fundamentals
 
