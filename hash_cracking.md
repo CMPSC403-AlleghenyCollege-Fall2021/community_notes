@@ -47,7 +47,7 @@ To crack the second hash `CBFDAC6008F9CAB4083784CBD1874F76618D2A97`, you can use
 
 #### Third hash
 
-Third hash uses `Sha256`, which is mode `1400` in hashcat. 
+Third hash uses `Sha256`, which is mode `1400` in hashcat. The answer is `letmein`.
 
 ```
 hashcat -m 1400 "1C8BFE8F801D79745C4631D09FFF36C82AA37FC4CCE4FC946683D7B336B63032" Tools/wordlists/rockyou.txt
