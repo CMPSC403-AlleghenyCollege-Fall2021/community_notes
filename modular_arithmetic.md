@@ -10,6 +10,10 @@ Addition/substraction/multiplication
 
 Division/inverse
 
+The inverse of x (mod n) is asking what integer element of [1, n-1] maps “x” back to the identity element, 1. So, we need to find an integer y such that xy = 1 (mod n).  This only works if gcd(x, n) = 1.  Otherwise, x doesn’t have an inverse (mod n). 
+
+Solving the equation isn’t quite as easy as it looks, we can’t just divide 1 by x and get y -- we are working under a modulus.  Instead, we use the Extended Euclidean Algorithm to find y, which will be an integer in the closed interval [1, n-1].
+
 ## Team 3 (back wall): NAMES
 
 Exponentiation
