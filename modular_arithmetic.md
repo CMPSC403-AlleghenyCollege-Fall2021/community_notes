@@ -6,7 +6,7 @@
 
 Addition/substraction/multiplication
 
-## Team 2 (back window): NAMES
+## Team 2 (back window): Michael, Mai, Maddy, Rachel, Hannah
 
 Division/inverse
 
