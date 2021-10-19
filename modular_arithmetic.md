@@ -2,7 +2,7 @@
 
 ## For each function, add a formula to calculate `mod` and an example with numbers.
 
-## Team 1 (front): Megan Munzek, Tyler Pham, Ramon Guzman, Nolan Thompson
+## Team 1 (front): Megan Munzek, Tyler Pham, Ramon Guzman, Nolan Thompson, Caden, Claire, Wes, Kiley, Chris
 
 According to [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-addition-and-subtraction), "(A + B) mod C = (A mod C + B mod C) mod C". This way, if we want to calculate:
 
