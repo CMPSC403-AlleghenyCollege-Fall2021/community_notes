@@ -2,12 +2,14 @@
 
 ## For each function, add a formula to calculate `mod` and an example with numbers.
 
-## Team 1 (front): NAMES
+## Team 1 (front): Caden, Chris, Wes, Claire, Kiley
 
 According to [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-addition-and-subtraction), "(A + B) mod C = (A mod C + B mod C) mod C". This way, if we want to calculate:
 
 (3 + 4) mod 2 = 7 mod 2 = 1
 (3 mod 2 + 4 mod 2) mod 2 = 1
+
+Note that subtraction follows the sames rules, but swaps out + for -
 
 ## Team 2 (back window): Michael, Mai, Maddy, Rachael, Hannah
 
