@@ -17,6 +17,8 @@ The inverse of x (mod n) is asking what integer element of [1, n-1] maps “x”
 
 Solving the equation isn’t quite as easy as it looks, we can’t just divide 1 by x and get y -- we are working under a modulus.  Instead, we use the Extended Euclidean Algorithm to find y, which will be an integer in the closed interval [1, n-1].
 
+Algorithm: ax+by=gcd(a,b)
+
 ## Team 3 (back wall): NAMES
 
 Exponentiation
