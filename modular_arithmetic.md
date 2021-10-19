@@ -15,6 +15,10 @@ According to [Khan Academy](https://www.khanacademy.org/computing/computer-scien
 
 (A-B) mod C = (A mod C-B mod C) mod C
 
+- multiplication
+
+(A * B) mod C = (A mod C * B mod C) mod C
+
 
 ## Team 2 (back window): Michael, Mai, Maddy, Rachael, Hannah
 
