@@ -9,7 +9,7 @@ According to [Khan Academy](https://www.khanacademy.org/computing/computer-scien
 (3 + 4) mod 2 = 7 mod 2 = 1
 (3 mod 2 + 4 mod 2) mod 2 = 1
 
-## Team 2 (back window): Michael, Mai, Maddy, Rachel, Hannah
+## Team 2 (back window): Michael, Mai, Maddy, Rachael, Hannah
 
 Division/inverse
 
