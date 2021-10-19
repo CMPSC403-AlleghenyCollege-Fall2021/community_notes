@@ -2,14 +2,12 @@
 
 ## For each function, add a formula to calculate `mod` and an example with numbers.
 
-## Team 1 (front): Caden, Chris, Wes, Claire, Kiley, Megan Munzek, Tyler Pham, Ramon Guzman, Nolan Thompson
+## Team 1 (front): Megan Munzek, Tyler Pham, Ramon Guzman, Nolan Thompson
 
 According to [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-addition-and-subtraction), "(A + B) mod C = (A mod C + B mod C) mod C". This way, if we want to calculate:
 
 (3 + 4) mod 2 = 7 mod 2 = 1
 (3 mod 2 + 4 mod 2) mod 2 = 1
-
-Note that subtraction follows the sames rules, but swaps out + for -
 
 ## Team 2 (back window): Michael, Mai, Maddy, Rachael, Hannah
 
@@ -21,6 +19,9 @@ Solving the equation isn’t quite as easy as it looks, we can’t just divide 1
 
 Algorithm: ax+by=gcd(a,b)
 
-## Team 3 (back wall): NAMES
+## Team 3 (back wall): Bailey, Wonjoon, Adam
 
 Exponentiation
+Exponentiation is the concept of a base e, eular's number aka 2.178...., that is to a variable a so e^a
+in python, exponentiation can be utilized py using exp(a) where exp is eulars number and in the parenthesis is ^a
+in general exponentiation is basically a base number mutiplied by itself as many times as the raised number.
