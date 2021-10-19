@@ -6,8 +6,14 @@
 
 According to [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-addition-and-subtraction), "(A + B) mod C = (A mod C + B mod C) mod C". This way, if we want to calculate:
 
+- addition
+
 (3 + 4) mod 2 = 7 mod 2 = 1
 (3 mod 2 + 4 mod 2) mod 2 = 1
+
+- subtraction 
+
+(A-B) mod C = (A mod C-B mod C) mod C
 
 ## Team 2 (back window): Michael, Mai, Maddy, Rachael, Hannah
 
