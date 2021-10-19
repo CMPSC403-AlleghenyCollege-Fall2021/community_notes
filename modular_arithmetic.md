@@ -34,6 +34,7 @@ in python, exponentiation can be utilized py using exp(a) where exp is eulars nu
 in general exponentiation is basically a base number mutiplied by itself as many times as the raised number.
 Base e, eulars number also relates 
 
+e is relation to the e in the log equation  and the two ways to write log 
 algorithm
 
 g^a mod d = g mod d
