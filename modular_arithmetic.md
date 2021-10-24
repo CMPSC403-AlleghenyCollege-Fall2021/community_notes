@@ -30,15 +30,20 @@ Solving the equation isn’t quite as easy as it looks, we can’t just divide 1
 
 Algorithm: ax+by=gcd(a,b)
 
-## Team 3 (back wall): Bailey, Wonjoon, Adam
+## Team 3 (back wall): Bailey, Wonjoon, Adam, Adriana, Pedro
 
-Exponentiation
-Exponentiation is the concept of a base e, eular's number aka 2.178...., that is to a variable a so e^a
-in python, exponentiation can be utilized py using exp(a) where exp is eulars number and in the parenthesis is ^a
-in general exponentiation is basically a base number mutiplied by itself as many times as the raised number.
+**Exponentiation**
+
+Exponentiation is the concept of a base e, where 'e' is eular's number (aka 2.178....), that is to a variable a so that e^a.
+In python, exponentiation can be utilized by using exp(a) where exp is eulars number and in the parenthesis is ^a
+in general, exponentiation is basically a base number mutiplied by itself as many times as the raised number.
 Base e, eulars number also relates 
 
-e is relation to the e in the log equation  and the two ways to write log 
+e is relation to the e in the log equation and the two ways to write log 
 algorithm
+
+Solve g^a(mod d) using modular exponentiation
+
+We start by building an algorithm where n is our exponent = a, y = d and u ≡ g mod d, shown as the modulus is the remainder piece after g is divided by a (shown below):
 
 g^a mod d = g mod d
