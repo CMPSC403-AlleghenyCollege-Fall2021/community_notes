@@ -1,7 +1,7 @@
-SQL injection
-domain
-IP
-http/https
-TCP
-DNS
-protocol
+- SQL injection
+- domain
+- IP
+- http/https
+- TCP
+- DNS
+- protocol
