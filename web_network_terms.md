@@ -1,0 +1,7 @@
+SQL injection
+domain
+IP
+http/https
+TCP
+DNS
+protocol
