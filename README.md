@@ -10,6 +10,7 @@ As a class community, we will use this space to record any notes on class topics
 * [Linux PrivEsc Techniques](part_three.md)
 * [Assembly Commands](assembly_language.md)
 * [Hash Cracking](hash_cracking.md)
+* [Web/Network Terms](web_network_terms.md)
 
 ## Linux Fundamentals
 
