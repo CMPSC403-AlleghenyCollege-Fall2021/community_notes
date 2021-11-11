@@ -17,3 +17,4 @@ TODO: Add a short explanation (one sentence is fine) of the term your team acted
 
 - **burp**: tool for cracking passwords, red hat approach, [documentation](https://portswigger.net/burp/documentation)
 - **firewall**: a defined set of rules for allowing or blocking specific network traffic
+- **injection**: type of attack where the attacker inserts malicious code into an input of a website.
