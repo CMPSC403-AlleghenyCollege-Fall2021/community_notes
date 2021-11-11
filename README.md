@@ -33,3 +33,5 @@ As a class community, we will use this space to record any notes on class topics
 |**whoami**| get the username. |
 |**wget** | downloads a file using the computer's IP Address and the name of the file / Retrieve online resources via HTTP.|
 |**pipe operators (> and >>)** | used for piping output to another command. |
+
+|**injection** | "injecting" malicious code into a web application through input |
