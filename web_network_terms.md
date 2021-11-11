@@ -15,4 +15,4 @@ Once the correct guess has been made, the team who acted out the term must say w
 
 TODO: Add a short explanation (one sentence is fine) of the term your team acted out in the following format.
 
-- **term**: explanation
+- **burp**: tool for cracking passwords, red hat approach, [documentation](https://portswigger.net/burp/documentation)
