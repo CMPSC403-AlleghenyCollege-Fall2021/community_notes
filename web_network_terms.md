@@ -13,8 +13,32 @@ Once the correct guess has been made, the team who acted out the term must say w
 
 ## Term Definitions
 
-TODO: Add a short explanation (one sentence is fine) of the term your team acted out in the following format.
+### Terms explored during the game of charades in class:
 
 - **burp**: tool for cracking passwords, red hat approach, [documentation](https://portswigger.net/burp/documentation)
 - **firewall**: a defined set of rules for allowing or blocking specific network traffic
 - **injection**: type of attack where the attacker inserts malicious code into an input of a website.
+- **proxy**:
+- **DNS**:
+- **enumeration**:
+- **GET/POST**:
+- **client/server**:
+
+### Other terms (in a box but not acted out):
+
+- domain
+- IP
+- http
+- TCP
+- UDP
+- protocol
+- internet
+- MAC
+- ping
+- tracert
+- whois
+- dig
+- repeater
+- port
+- cookie
+- nmap
