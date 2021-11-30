@@ -11,6 +11,7 @@ As a class community, we will use this space to record any notes on class topics
 * [Assembly Commands](assembly_language.md)
 * [Hash Cracking](hash_cracking.md)
 * [Web/Network Terms](web_network_terms.md)
+* [Firewalls](firewalls.md)
 
 ## Linux Fundamentals
 
