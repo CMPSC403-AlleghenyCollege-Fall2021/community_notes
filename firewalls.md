@@ -8,3 +8,5 @@ A firewall is a network security device that monitors traffic to or from your ne
 - **Next-generation Firewall(CJ/CK/CS):** Next-generation firewall (NGFW) is part of the third generation of firewall technology that can be implemented in hardware or software. It is capable of detecting and blocking sophisticated attacks by enforcing security policies at the application, port and protocol levels. (from *TechTarget*)
 
 - **Threat Focused NGFW(HS/DU/WL/WC)** A next-generation firewall (NGFW) is a threat focused network firewall that provides more features compared to a traditional firewall. Features such as a full security suite that includes URL filtering and advanced malware protection. Additionally it includes threat intelligence sharing through each layer of an attack.
+
+- **Virtual/Cloud(MK/MM/RH/TP/MC):** Cloud based firewalls are software based and specifically used in environments where deploying hardware firewalls can be difficult or impossible. Virtual firewalls grant or reject network access to traffic flows between various zones. They enable organizations to secure their expanding network perimeter to ensure secure access to assets.
